@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+
+[packages]
+urllib3 = ">=1.24.2"
+pandas = "*"
+
+
+[requires]
+python_version = "3.7"
