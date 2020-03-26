@@ -11,10 +11,9 @@ This hypothesis can be broken down into Hypothesis A and Hypothesis B, below.
 *To be totally honest, I'm not sure this is a totally accurate operationalization of the original hypothesis, even without modeling capacity.*
 
 **Hypothesis B:** "Low numbers of tests would imply a faster rate of growth later in the positive cases curve"
-Tea program: hypo_b.ipynb
+- `hypo_b.ipynb`: Very similar to Hypothesis A, above. The main difference is that total number of tests, instead of positive test cases only, are considered. 
 
-
-**Hypthesis C:** Higher testing rates is positively related to higher death count
+**Hypthesis C:** Higher testing rates is positively related to higher death count.
 
 
 Collaborators: Ben Zorn, Emery Berger
